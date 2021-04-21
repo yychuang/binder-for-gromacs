@@ -1,7 +1,5 @@
 # binder-for-gromacs
 
-# Using PSi4-ForteCubeView
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/binder-for-gromacs/HEAD?filepath=index.ipynb)  (notebook) 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/binder-for-gromacs/HEAD?urlpath=lab) (lab)
