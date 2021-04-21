@@ -11,7 +11,7 @@ this case, you should **not** use a `requirements.txt` file, but instead use
 a `- pip` section in `environment.yml`. This repository is an example of how
 to construct your `environment.yml` file to accomplish this.
 
+* `apt.txt` for apt-installing gromacs
+* `environment.yml` for installing the python dependencies
+* `postBuild` for jupyter notebook and lab settings
 
-Working
-* Notebook 
-* Lab
